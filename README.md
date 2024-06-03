@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marwan598
-- 👀 I’m interested in React JS / Native
-- 🌱 I’m currently learning Mobile Apps development with React Native
-- 💞️ I’m looking to collaborate on Web and Mobile apps using React JS and React Native
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently developing Mobile Apps using Flutter
 - 📫 How to reach me? E-mail: marwanaomar7@gmail.com
 
